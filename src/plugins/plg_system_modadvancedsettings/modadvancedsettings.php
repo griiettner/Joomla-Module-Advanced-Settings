@@ -1,6 +1,8 @@
 <?php
 /**
- * @copyright   Copyright (C) 2005 - 2012 Open Source Matters, Inc. All rights reserved.
+ * @version     %%VERSION%%
+ * @author      Paulo Griiettner/Anderson G. Martins <andergmartins@gmail.com>
+ * @copyright   Copyright (c) 2012 Paulo Griietter/Anderson G. Martins. All rights reserved.
  * @license     GNU General Public License version 2 or later; see LICENSE.txt
  */
 
